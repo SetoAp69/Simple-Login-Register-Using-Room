@@ -24,6 +24,7 @@ Langkah pembuatan :
      ![image](https://github.com/user-attachments/assets/f3ca20c4-e358-4bfd-a9f5-1086d4093708)
 
    - Lalu pilih perangkat yang dijalankan
+     
      ![image](https://github.com/user-attachments/assets/094f8603-6817-4968-aff5-f41f7e4a33ea)
 
    - Coba lakukan register
